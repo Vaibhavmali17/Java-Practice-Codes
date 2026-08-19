@@ -1,2 +1,3 @@
 # Java-Practice-Codes
-My daily C# and .NET learning journey — from C# fundamentals to ASP.NET Core, EF Core, SQL Server and real-world projects.
+My daily Java Codes
+1.  Palindrome Number Program in Java
