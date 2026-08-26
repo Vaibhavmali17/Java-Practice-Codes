@@ -18,7 +18,6 @@ public class LargestNumber {
         if (c > max) {
             max = c;
         }
-
         System.out.println("Largest number is: " + max);
     }
 } 
