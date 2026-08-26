@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class LargestNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter three numbers: ");
         int a = sc.nextInt();
         int b = sc.nextInt();
@@ -18,6 +17,7 @@ public class LargestNumber {
         if (c > max) {
             max = c;
         }
+        
         System.out.println("Largest number is: " + max);
         sc.close();
     }
