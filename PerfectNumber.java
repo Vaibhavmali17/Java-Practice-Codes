@@ -1,4 +1,3 @@
-package Numbers;
 
 import java.util.Scanner;
 
@@ -25,3 +24,5 @@ public class PerfectNumber {
         sc.close();
     }
 }
+
+
