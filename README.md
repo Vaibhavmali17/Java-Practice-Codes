@@ -6,3 +6,7 @@ My daily Java Codes
 4.  Sum Of Digits Program in Java
 5.  Armstrong Number Program in Java
 6.  SwapTwoNumbers program
+7.  add Perfect Number program
+8.  Reverse string program
+9.  Prime number program
+10.  add fibonacciSeries program
