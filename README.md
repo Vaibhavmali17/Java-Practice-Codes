@@ -11,3 +11,4 @@ My daily Java Codes
 9.  Prime number program
 10.  add fibonacciSeries program
 11.  SpyNumber program
+12.  add string palindrome program
