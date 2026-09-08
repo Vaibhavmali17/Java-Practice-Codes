@@ -10,3 +10,4 @@ My daily Java Codes
 8.  Reverse string program
 9.  Prime number program
 10.  add fibonacciSeries program
+11.  SpyNumber program
