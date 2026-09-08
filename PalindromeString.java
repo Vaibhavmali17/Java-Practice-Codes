@@ -6,6 +6,7 @@ public class PalindromeString {
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
 
+        
         // 1. Built-in StringBuilder se direct reverse karo
         String rev = new StringBuilder(str).reverse().toString();
 
