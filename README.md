@@ -12,3 +12,5 @@ My daily Java Codes
 10.  add fibonacciSeries program
 11.  SpyNumber program
 12.  add string palindrome program
+13.  add count words program
+14.  add remove space from string program
