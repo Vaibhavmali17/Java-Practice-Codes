@@ -1,5 +1,3 @@
-package Strings;
-
 import java.util.Scanner;
 
 public class RemoveSpaces {
@@ -9,6 +7,10 @@ public class RemoveSpaces {
         String str = sc.nextLine();
 
         // replace() se saare spaces blank se replace ho jayenge
+        String result = str.replace(" ", "");
+
+        System.out.println("String without spaces: " + result);
+        sc.close();
         
     }
 }
