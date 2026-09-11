@@ -12,11 +12,12 @@ public class ReverseString {
         String reversed = sb.reverse().toString();
 
         System.out.println("Reversed using StringBuilder: " + reversed);
-
-        // 2. Built-in StringBuffer (Thread-safe alternative)
+        
+         // 2. Built-in StringBuffer (Thread-safe alternative)
         StringBuffer sbf = new StringBuffer(original);
         System.out.println("Reversed using StringBuffer: " + sbf.reverse());
 
+       
         // Palindrome check using built-in reversed string
         if (original.equalsIgnoreCase(reversed)) {
             System.out.println("Status: Palindrome");
