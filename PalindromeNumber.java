@@ -17,12 +17,12 @@ public class PalindromeNumber {
         }
 
         // Original aur reverse compare karo
-        if (original == rev) {
+         if (original == rev) {
             System.out.println(original + " is a Palindrome Number");
         } else {
             System.out.println(original + " is NOT a Palindrome Number");
         }
-
         sc.close();
+       
     }
 }
