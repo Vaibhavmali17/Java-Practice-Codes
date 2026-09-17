@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class RotateArrayByK {
     public static void main(String[] args) {
