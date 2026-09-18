@@ -5,7 +5,7 @@ public class PrimeNumber {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
-
+        
         boolean isPrime = (n > 1);
 
         for (int i = 2; i * i <= n; i++) {

@@ -7,7 +7,7 @@ public class PalindromeString {
         String str = sc.nextLine();
 
         
-        // 1. Built-in StringBuilder se direct reverse karo
+         // 1. Built-in StringBuilder se direct reverse karo
         String rev = new StringBuilder(str).reverse().toString();
 
         // 2. equalsIgnoreCase se check karo (Case sensitive issue nahi hoga)
