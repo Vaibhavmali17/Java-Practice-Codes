@@ -9,7 +9,8 @@ public class RemoveSpaces {
         // replace() se saare spaces blank se replace ho jayenge
         String result = str.replace(" ", "");
 
-        System.out.println("String without spaces: " + result);
+
+        System.out.println("String with out spaces: " + result);
         sc.close();
         
     }

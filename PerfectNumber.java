@@ -13,7 +13,6 @@ public class PerfectNumber {
                 sum += i;
             }
         }
-
         if (sum == n && n > 0) {
             System.out.println(n + " is a Perfect Number");
         } else {
