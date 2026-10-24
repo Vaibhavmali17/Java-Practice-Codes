@@ -9,9 +9,9 @@ public class LargestNumber {
         int b = sc.nextInt();
         int c = sc.nextInt();
 
-        int max = a;
+        int max =a;
 
-        if (b > max) {
+        if (b < max) {
             max = b;
         }
         if (c > max) {
