@@ -9,6 +9,7 @@ public class ArmstrongNumber {
 
         int t = n, sum = 0, digits = 0;
 
+        
         // Count digits
         int temp = n;
         while (temp > 0) {
